@@ -2,6 +2,8 @@
 rare username bruteforce finder combinations
 https://scriptable.gumroad.com/l/jtoygd
 
+walkthrough - https://youtu.be/wbDDVGeX9yg?si=z_fATwYDYp7Hb8BZ
+
 Claim it before someone else does—across 20+ platforms like Discord, Reddit, YouTube
 
 UserUser? is the all‑in‑one desktop application for discovering, tracking, and securing usernames across every major social, gaming, and community platform. Whether you need one single handle or are running exhaustive bulk sweeps, UserUser brings everything together in a sleek UI
