@@ -1,8 +1,5 @@
 # UserUser
 rare username bruteforce finder combinations
-https://scriptable.gumroad.com/l/jtoygd
-
-walkthrough - https://youtu.be/wbDDVGeX9yg?si=z_fATwYDYp7Hb8BZ
 
 Claim it before someone else does—across 20+ platforms like Discord, Reddit, YouTube
 
